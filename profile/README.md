@@ -12,4 +12,12 @@ I build browser games: sims, strategy games, political games, community sites. S
 
 Rather than let them rot on a hard drive, I'm putting them all in one yard. Play the ones that run, and soon you'll be able to license the code or buy one outright and finish it yourself.
 
+### ⭐ NXCodes
+
+A modern engine for text-based browser games, starting with crime — installs from a zip, extended with addons you upload, run from a staff panel that looks like your game. **In development.**
+
+[nxcodes.com](https://nxcodes.com) · [Feedback & bug reports](https://github.com/One-Mans-Junk/nxcodes-feedback) · [Docs](https://github.com/One-Mans-Junk/nxcodes-docs)
+
+---
+
 **See the lot:** [onemansjunk.games](https://onemansjunk.games)
